@@ -1,4 +1,4 @@
 # PORTFOLIO
 
-visite:  https://www.linkedin.com/in/yassin-talssis-0aba4221b/
+visite:  https://yassintalssis.github.io/yassin_talssis.github.io/index.html
  
