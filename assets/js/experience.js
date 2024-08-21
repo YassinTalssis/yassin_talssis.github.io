@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/intellcap.jpg",
     place: "IntellCap",
     time: "(July - Sept, 2023)",
-    desp: "The objectif of project is to Develop an innovative platform in the football industry that enhances player performance through tailored diet and exercise recommendations:<li>Develop an innovative platform in the football industry that enhances player performance through tailored diet and exercise recommendations</li><li>Design/train/validate ML/DL models</li><li>Team management tools: Jira/Slack</li><li>Microservices to deploy ML/DL models</li>",
+    desp: "The objectif of project is to Develop an innovative platform in the football industry that enhances player performance through tailored diet and exercise recommendations:<li>Develop an innovative platform in the football industry that enhances player performance through tailored diet and exercise recommendations.</li><li>Design/train/validate ML/DL models.</li><li>Team management tools: Jira/Slack.</li><li>Microservices to deploy ML/DL models.</li>",
   },
   {
     title: "Training Cell Head",
@@ -30,7 +30,7 @@ const exp = [
     cardImage: "assets/images/experience-page/it_holic.jpg",
     place: "ENSIAS",
     time: "(Feb, 10&11-2023)",
-    desp: "<li>We organized The IT HOLIC Hackathon.</li><li>We hosted conference on theme AR/VR </li><li>And workshops in WEB-3 and AR/VR</li>",
+    desp: "<li>We organized The IT HOLIC Hackathon.</li><li>We hosted conference on theme AR/VR. </li><li>And workshops in WEB-3 and AR/VR.</li>",
   },
   {
     title: "Computer Vision developer Intern",
