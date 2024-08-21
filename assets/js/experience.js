@@ -37,7 +37,7 @@ const exp = [
     cardImage: "assets/images/experience-page/cc.jpg",
     place: "Technocolabs Softwares",
     time: "(July - Sept, 2022)",
-    desp: "<li>The team was tasked with developing a project similar to Amazon's inventory reconciliation, utilizing artificial intelligence.</li><li> We used computer vision and image recognition algorithms to process images of physical items to count and identify them.</li><li>This allowed us to accurately monitor and reconcile inventory levels across all locations, ensuring that all items were accounted for and correctly identified.</li><li> We also developed the AI technology to be robust and adaptive in order to improve accuracy in inventory tracking and management.</li>",
+    desp: "<li>The team was tasked with developing a project similar to Amazon's inventory reconciliation, utilizing artificial intelligence.</li><li> We used opencv and DL algorithms like CNN, ResNet, VGG to process images of physical items to count and identify them.</li><li>This allowed us to accurately monitor and reconcile inventory levels across all locations, ensuring that all items were accounted for and correctly identified.</li><li>Our work aims to explore various techniques and models, ultimately comparing the results to select the best one for deployment.</li>",
   },
   
 ];
