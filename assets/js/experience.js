@@ -5,10 +5,24 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "AI R&D Intern", 
+    cardImage: "assets/images/experience-page/um6p_intern.jpg",
+    place: "UM6P",
+    time: "(February - July, 2024)",
+    desp: "The objectif of project is to develop an AI solutions to predict the properties of Metal-Organic Frameworks (MOFs):</li><li>Explored graph-based Large Language Models (LLMs) and multimodal approaches for MOF property prediction. </li><li></li>Fine-tuned models, including MOFTransformer, for improved accuracy.</li><li>Conducted data preprocessing and cleaning for Metal-Organic Frameworks.</li><li>Integrated attention mechanisms into a Message Passing Neural Network (MPNN) as the final solution for enhanced MOF property prediction.</li>",
+  },
+  {
+    title: "Data Scientist Intern", 
+    cardImage: "assets/images/experience-page/intellcap.jpg",
+    place: "IntellCap",
+    time: "(July - Sept, 2023)",
+    desp: "The objectif of project is to Develop an innovative platform in the football industry that enhances player performance through tailored diet and exercise recommendations:<li>Develop an innovative platform in the football industry that enhances player performance through tailored diet and exercise recommendations</li><li>Design/train/validate ML/DL models</li><li>Team management tools: Jira/Slack</li><li>Microservices to deploy ML/DL models</li>",
+  },
+  {
     title: "Training Cell Head",
     cardImage: "assets/images/experience-page/IT.jpg",
     place: "ENSIAS IT CLUB",
-    time: "(July, 2022 - present)",
+    time: "(July, 2022 - July, 2023)",
     desp: "<li> As one of Clubs head, I organize training sessions in different It sectors.</li><li>We provide our members with the chance to create training sessions that enable us to learn from one another.</li><li>We invite IT professionals to conduct training sessions and workshops at the club.</li>",
   },
   {

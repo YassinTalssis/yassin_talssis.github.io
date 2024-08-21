@@ -30,8 +30,8 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Image Classification",
-    cardImage: "assets/images/project-page/cf.jpg",
+    title: "sEMG‑Based Hand’s ﬁngers gestures Recognition",
+    cardImage: "assets/images/project-page/hg.jpg",
     description: "This project is focused on image processing and features extrction.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
@@ -46,8 +46,8 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Movie Recommendation System",
-    cardImage: "assets/images/project-page/movie-recommendation.jpeg",
+    title: "Human Action Recognition",
+    cardImage: "assets/images/project-page/har.png",
     description: "Built using Tensorflow.",
     tagimg:
       "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
@@ -55,8 +55,17 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Music Recommendation Engine",
-    cardImage: "assets/images/project-page/music.jpg",
+    title: "Developing mobile application for predicting tomatoes maturity",
+    cardImage: "assets/images/project-page/im.jpg",
+    description: "Built using Python.",
+    tagimg:
+      "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
+    Previewlink: "",
+    Githublink: "",
+  },
+  {
+    title: "Gastrointestinal Diseases Classification Using Transfer Learning",
+    cardImage: "assets/images/project-page/Cancer.png",
     description: "Built using Python.",
     tagimg:
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",

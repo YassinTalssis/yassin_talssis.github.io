@@ -5,25 +5,51 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Intro to Machine Learning",
+    cardImage: "assets/images/education-page/K1.png",
+    moocLink: "https://www.kaggle.com/learn/certification/yassintalssis/intro-to-machine-learning",
   },
   {
-    title: "Introduction To Deep Learning",
-    cardImage: "assets/images/education-page/ke.png",
-    moocLink: "https://www.kaggle.com/learn/intro-to-deep-learning",
+    title: " Intermediate Machine Learning",
+    cardImage: "assets/images/education-page/K2.png",
+    moocLink: "https://www.kaggle.com/learn/certification/yassintalssis/intro-to-machine-learning",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
-  },
-  {
-    title: "Intro to Game AI and Reinforcement Learning",
-    cardImage: "assets/images/education-page/ke.png",
+    title: "Data Visualization",
+    cardImage: "assets/images/education-page/K4.png",
     moocLink:"https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning",
   },
+  {
+    title: "Computer Vision",
+    cardImage: "assets/images/education-page/K3.png",
+    moocLink: "https://www.kaggle.com/learn/certification/yassintalssis/computer-vision",
+  },
+  {
+    title: "Supervised Machine Learning: Regression and Classification",
+    cardImage: "assets/images/education-page/MLS3.png",
+    moocLink: "https://coursera.org/share/49862d0137d93bafa9147eb3da0762d7",
+  },
+  {
+    title: "Unsupervised Learning, Recommenders, Reinforcement Learning",
+    cardImage: "assets/images/education-page/MLS1.png",
+    moocLink: "https://coursera.org/share/38938cdb5fdd62b05af534accd10b141",
+  },
+  {
+    title: "Advanced Learning Algorithms",
+    cardImage: "assets/images/education-page/MLS2.png",
+    moocLink: "https://coursera.org/share/3e85a0108529a9a9e9824ca5567cba69",
+  },
+  {
+    title: "Machine Learning Specialization (DeepLearning.AI)",
+    cardImage: "assets/images/education-page/MLS.png",
+    moocLink: "https://coursera.org/share/38202cdd83b8868a5059a346cf3f162b",
+  },
+  {
+    title: "CCNA: Switching, Routing, and Wireless Essentials",
+    cardImage: "assets/images/education-page/CCNA.png",
+    moocLink: "https://www.credly.com/badges/0c3267ce-ca36-4ec0-a133-e0125edee372/public_url",
+  },
+ 
 ];
 
 const experience = [
