@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/um6p_intern.jpg",
     place: "UM6P",
     time: "(February - July, 2024)",
-    desp: "The objectif of project is to develop an AI solutions to predict the properties of Metal-Organic Frameworks (MOFs):</li><li>Explored graph-based Large Language Models (LLMs) and multimodal approaches for MOF property prediction. </li><li></li>Fine-tuned models, including MOFTransformer, for improved accuracy.</li><li>Conducted data preprocessing and cleaning for Metal-Organic Frameworks.</li><li>Integrated attention mechanisms into a Message Passing Neural Network (MPNN) as the final solution for enhanced MOF property prediction.</li>",
+    desp: "The objectif of project is to develop an AI solutions to predict the properties of Metal-Organic Frameworks (MOFs):</li><li>Explored graph-based Large Language Models (LLMs) and multimodal approaches for MOF property prediction. </li><li>Conducted data preprocessing and cleaning for Metal-Organic Frameworks.</li><li>Fine-tuned models, including MOFTransformer, for improved accuracy.</li><li>Integrated attention mechanisms into a Message Passing Neural Network (MPNN) as the final solution for enhanced MOF property prediction.</li>",
   },
   {
     title: "Data Scientist Intern", 
