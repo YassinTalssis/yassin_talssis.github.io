@@ -32,7 +32,7 @@ const projects = [
   {
     title: "sEMG‑Based Hand’s ﬁngers gestures Recognition",
     cardImage: "assets/images/project-page/hg.jpg",
-    description: "This project is focused on image processing and features extrction.",
+    description: "This project focused on recognizing hand finger gestures using surface Electromyography (sEMG). My contributions included:<li>signal processing through the application of Fast Fourier Transform.</li><li>Developing deep learning models, including architectures such as RNN and LSTM.</li>",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
     Githublink: "",
