@@ -1,8 +1,8 @@
 /*Research Details Table*/
 
 const researchTable = document.querySelector(".main");
-
-const research = [
+const research =[{},{}];
+/*const research = [
   {
     title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
     authors:
@@ -145,7 +145,8 @@ const research = [
       "This is currently left empty and this can be considered as a dummy data 8",
     absbox: "absPopup8",
   },
-];
+];*/
+
 AOS.init();
 const fillData = () => {
   let output = "";
