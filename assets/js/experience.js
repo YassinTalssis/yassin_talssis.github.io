@@ -4,6 +4,13 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
+  {title: "Data Scientist ", 
+    cardImage: "assets/images/experience-page/os_climate.png",
+    place: "OS-Climate",
+    time: "(november - Present, 2024)",
+    desp: "Contributed to the development of a platform under the OS-Climate project (Linux Foundation) focused on Physical Risk and Resilience:</li><li>Collected, preprocessed, and curated datasets for public use in climate modeling and analysis.</li><li>Supported informed decision-making by enhancing data quality for climate risk assessments.</li><li>Collaborated with cross-disciplinary teams to ensure data accuracy and relevance for the platform.</li><li>Improved resilience modeling through data-driven insights and analytics."
+    
+  },
   {
     title: "AI R&D Intern", 
     cardImage: "assets/images/experience-page/um6p_intern.jpg",
